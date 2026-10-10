@@ -1,0 +1,6 @@
+# Publish the site and media; keep template authoring notes local.
+/START-HERE.md
+/ASSET-CHECKLIST.csv
+/downloads/
+Thumbs.db
+.DS_Store
